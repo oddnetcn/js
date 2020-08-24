@@ -1,5 +1,4 @@
-<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js" ></script>
-<script>
+
     $(function(){
         var show_num = [];
         draw(show_num);
@@ -83,4 +82,3 @@
         return "rgb(" + r + "," + g + "," + b + ")";
     }
   
-</script>
